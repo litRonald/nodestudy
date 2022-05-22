@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "test node from runoob.com",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "\\"
+  ],
+  "author": "qwyong",
+  "license": "ISC"
+}
